@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "id": "e6d06322-7667-46dd-8070-698fba0df075",
+    "contentHash": "iH77RG3Fpoji5czuAsK5RNwKlCOFVNLGKIQq3d5W\u002BzQ=",
+    "platformVersion": "10.0.0",
+    "revisionId": "eb49de0b-a2fa-41b7-be23-5068896fac01",
+    "updatedAt": "2026-03-12T15:14:38.911631Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/e6d06322-7667-46dd-8070-698fba0df075"
+  },
+  "content": {
+    "id": "e6d06322-7667-46dd-8070-698fba0df075",
+    "icon": "3d_rotation",
+    "accent": "#5a28cd",
+    "route": "git-space",
+    "description": "tracked",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "created": "2026-03-12T15:14:30.364635",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-12T15:14:38.4650884Z",
+    "revisionId": "eb49de0b-a2fa-41b7-be23-5068896fac01",
+    "userId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "workspaceId": "e6d06322-7667-46dd-8070-698fba0df075",
+    "branch": "main",
+    "resourceId": "e6d06322-7667-46dd-8070-698fba0df075",
+    "name": "Git space"
+  }
+}
