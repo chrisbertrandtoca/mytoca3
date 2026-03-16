@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "id": "2cd4ffb1-a994-4047-b8a9-032a41bcbfeb",
+    "contentHash": "OYlSirCr1Aslaeaew/gyisZXy1dRGR4D93/F2dxbJlI=",
+    "platformVersion": "10.0.0",
+    "revisionId": "30d8f63e-1d7a-4b97-93b7-e3d24584a434",
+    "updatedAt": "2026-03-16T13:04:55.029698Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-c252-4c33-8b9e-7917ac3d147b/worktrees/dev"
+  },
+  "content": {
+    "id": "69b7ffe06961b1864ae678c2",
+    "projectId": "448a2f3e-a668-4910-939b-5e8ce59be910",
+    "description": "d1",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "23f9a33a-ae44-4b63-8465-91e6cda643b7",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022asd\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-16T13:04:32+00:00",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-16T13:04:54.4294079Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "activityServiceType": "Stateless",
+    "revisionId": "30d8f63e-1d7a-4b97-93b7-e3d24584a434",
+    "userId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "workspaceId": "08de213f-c252-4c33-8b9e-7917ac3d147b",
+    "branch": "dev",
+    "resourceId": "2cd4ffb1-a994-4047-b8a9-032a41bcbfeb",
+    "name": "d1"
+  }
+}
