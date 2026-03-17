@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "id": "aa355632-d8a8-48fe-a074-09590ee31a4f",
+    "contentHash": "JCSRi9i818xXFjYJz\u002B4y5z8O2BnQ2/uIgPyo3PpbqUM=",
+    "platformVersion": "10.0.0",
+    "revisionId": "4be9f04a-dc80-4fb7-bcfc-fd1153273e56",
+    "updatedAt": "2026-03-17T09:30:57.0242313Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/ab841b95-72ec-4772-b235-cf325cd7d7d1/worktrees/chris"
+  },
+  "content": {
+    "id": "69b91f40ea5fb68b7c60a3c5",
+    "projectId": "0919d59c-7088-498c-8657-6d4220736f0e",
+    "description": "I\u0027m buggin yall",
+    "associatedUserId": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "f0a378d2-7514-496d-aa84-5a7715a164c5",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022What\u0027s happening?\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-17T09:30:40+00:00",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "updated": "2026-03-17T09:30:56.4276243Z",
+    "updatedBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "activityServiceType": "Stateless",
+    "revisionId": "4be9f04a-dc80-4fb7-bcfc-fd1153273e56",
+    "userId": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "workspaceId": "ab841b95-72ec-4772-b235-cf325cd7d7d1",
+    "branch": "chris",
+    "resourceId": "aa355632-d8a8-48fe-a074-09590ee31a4f",
+    "name": "debug me"
+  }
+}

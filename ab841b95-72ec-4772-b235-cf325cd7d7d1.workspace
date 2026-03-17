@@ -1,27 +1,28 @@
 {
   "metadata": {
     "id": "ab841b95-72ec-4772-b235-cf325cd7d7d1",
-    "contentHash": "CTq6C6AMD2SyThrfcSuDV\u002BETlXz6zSRtSCv3OT8gg5o=",
+    "contentHash": "dlMWTG81gz7JCT25ZUJib78N\u002Bd3QuwMcUQdW2ntdCZA=",
     "platformVersion": "10.0.0",
-    "revisionId": "14d4f27b-9d35-46d7-9ed1-fb3d6c82f6ed",
-    "updatedAt": "2026-03-12T15:13:11.3835351Z",
+    "revisionId": "f963dc65-0e07-4211-90d2-c075fc45dd3a",
+    "updatedAt": "2026-03-17T09:31:36.383316Z",
     "updatedBy": "Toca.io",
-    "branch": "/app/data/git/ab841b95-72ec-4772-b235-cf325cd7d7d1"
+    "branch": "/app/data/git/ab841b95-72ec-4772-b235-cf325cd7d7d1/worktrees/chris"
   },
   "content": {
     "id": "ab841b95-72ec-4772-b235-cf325cd7d7d1",
     "icon": "3d_rotation",
     "accent": "#8d41e",
     "route": "git-space",
-    "description": "for git",
+    "description": "for git | chris branch",
     "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
     "created": "2026-03-12T15:12:53.177807",
     "updatedBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
-    "updated": "2026-03-12T15:13:11.3621951Z",
-    "revisionId": "14d4f27b-9d35-46d7-9ed1-fb3d6c82f6ed",
+    "updated": "2026-03-17T09:31:36.082817Z",
+    "repositoryUrl": "https://github.com/chrisbertrandtoca/mytoca3.git",
+    "revisionId": "f963dc65-0e07-4211-90d2-c075fc45dd3a",
     "userId": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
     "workspaceId": "ab841b95-72ec-4772-b235-cf325cd7d7d1",
-    "branch": "main",
+    "branch": "chris",
     "resourceId": "ab841b95-72ec-4772-b235-cf325cd7d7d1",
     "name": "Git space"
   }
