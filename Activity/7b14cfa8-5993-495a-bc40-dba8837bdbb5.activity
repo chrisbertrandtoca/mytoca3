@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "id": "7b14cfa8-5993-495a-bc40-dba8837bdbb5",
+    "contentHash": "q9r3ClP26nEsHrIgzE9xxwj1X2WQDpqYfBtmObcusgc=",
+    "platformVersion": "10.0.0",
+    "revisionId": "4978362b-18b2-4148-bdfa-9f0768a8623d",
+    "updatedAt": "2026-03-19T10:48:06Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bbd41319496d254264c87f",
+    "projectId": "4a140c39-c486-4b80-973d-4cb66ce23961",
+    "description": "a1",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "743bae31-3b1d-49d9-ad36-522629636dd6",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaa\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "ui:expanded",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "7b4f247c-65e5-42e5-b09d-7cfabd4b566d",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaa\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "fe04a168-120c-430b-a735-b72a3f7bc7f2",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aaa\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-19T10:46:02Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-19T10:48:05Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "activityServiceType": "Stateless",
+    "revisionId": "4978362b-18b2-4148-bdfa-9f0768a8623d",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "7b14cfa8-5993-495a-bc40-dba8837bdbb5",
+    "name": "a1"
+  }
+}
