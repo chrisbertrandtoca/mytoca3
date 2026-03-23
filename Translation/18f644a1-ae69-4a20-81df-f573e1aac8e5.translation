@@ -1,12 +1,11 @@
 {
   "metadata": {
     "id": "18f644a1-ae69-4a20-81df-f573e1aac8e5",
-    "contentHash": "qXd6LUBNf8N/3PWWy2PuUdLyshkITT\u002B1fiBYiVATzKs=",
+    "contentHash": "VaMtKlucPC0QjALimaRmas6n8NL3U8BWu/qb5s6\u002BMyw=",
     "platformVersion": "10.0.0",
     "revisionId": "a521e722-7592-40e4-b7dc-4efbf06ddf9b",
-    "updatedAt": "2026-03-23T10:16:18Z",
-    "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+    "updatedAt": "2026-03-23T11:45:33Z",
+    "updatedBy": "Toca.io"
   },
   "content": {
     "id": "69c112eeb2756d107de3d7a7",
@@ -14,25 +13,26 @@
     "appId": "69bc1de1817395953698781d",
     "translations": {
       "Card_BQBu_title_[0]": {
-        "updated": "2026-03-23T10:16:06Z",
+        "updated": "2026-03-23T11:43:25Z",
         "values": {
-          "en": "MNy card"
+          "en": "MNy card",
+          "pl": "Karti Moje moj"
         }
       },
       "Text_MYbb_value_0": {
-        "updated": "2026-03-23T10:16:06Z",
+        "updated": "2026-03-23T11:45:13Z",
         "values": {
-          "en": "Hey My Name is Chis"
+          "en": "Hey My Name is Chis",
+          "pl": "Moje imie to Krzysiu jest"
         }
       }
     },
     "created": "2026-03-23T10:16:14Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2026-03-23T10:16:14Z",
+    "updated": "2026-03-23T11:45:13Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "revisionId": "a521e722-7592-40e4-b7dc-4efbf06ddf9b",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
-    "branch": "chris",
     "resourceId": "18f644a1-ae69-4a20-81df-f573e1aac8e5",
     "name": "Home"
   }
