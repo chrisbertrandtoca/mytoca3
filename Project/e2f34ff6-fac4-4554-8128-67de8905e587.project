@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "e2f34ff6-fac4-4554-8128-67de8905e587",
+    "contentHash": "/cGKrTcXbq/wpi65fDEkf0LWlqhbeaf\u002BS5ocyJwK6g8=",
+    "platformVersion": "10.0.0",
+    "revisionId": "6f32ad28-1fe6-431a-8130-0dbb2b7bb90d",
+    "updatedAt": "2026-03-19T12:25:05Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bbeb1f19792ab9fd79ba60",
+    "projectId": "e2f34ff6-fac4-4554-8128-67de8905e587",
+    "description": "rere",
+    "associatedUsers": [
+      "cb3e6503-0240-4df6-87d6-5afff481116d"
+    ],
+    "created": "2026-03-19T12:25:03Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-19T12:25:03Z",
+    "revisionId": "6f32ad28-1fe6-431a-8130-0dbb2b7bb90d",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "e2f34ff6-fac4-4554-8128-67de8905e587",
+    "name": "rerera"
+  }
+}

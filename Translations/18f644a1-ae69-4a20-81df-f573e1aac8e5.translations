@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "id": "18f644a1-ae69-4a20-81df-f573e1aac8e5",
+    "contentHash": "qXd6LUBNf8N/3PWWy2PuUdLyshkITT\u002B1fiBYiVATzKs=",
+    "platformVersion": "10.0.0",
+    "revisionId": "a521e722-7592-40e4-b7dc-4efbf06ddf9b",
+    "updatedAt": "2026-03-23T10:16:18Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69c112eeb2756d107de3d7a7",
+    "translationId": "18f644a1-ae69-4a20-81df-f573e1aac8e5",
+    "appId": "69bc1de1817395953698781d",
+    "translations": {
+      "Card_BQBu_title_[0]": {
+        "updated": "2026-03-23T10:16:06Z",
+        "values": {
+          "en": "MNy card"
+        }
+      },
+      "Text_MYbb_value_0": {
+        "updated": "2026-03-23T10:16:06Z",
+        "values": {
+          "en": "Hey My Name is Chis"
+        }
+      }
+    },
+    "created": "2026-03-23T10:16:14Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-23T10:16:14Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "revisionId": "a521e722-7592-40e4-b7dc-4efbf06ddf9b",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "18f644a1-ae69-4a20-81df-f573e1aac8e5",
+    "name": "Home"
+  }
+}

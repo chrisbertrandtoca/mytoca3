@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "id": "69bc251bee0fc19515629341",
+    "contentHash": "UK46V2\u002BbShGrE43CVqSK2vWg\u002Br52gitOzoOP8HVuQjE=",
+    "platformVersion": "10.0.0",
+    "revisionId": "f637e457-e54a-49cf-81a3-e1512d12fc41",
+    "updatedAt": "2026-03-23T10:16:55Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bc251bee0fc19515629340",
+    "blockId": "69bc251bee0fc19515629341",
+    "appId": "69bc1de1817395953698781d",
+    "blueprint": {
+      "version": "2",
+      "rootComponentId": "d90d29cd-e85e-40f2-be5a-17673f8412c6",
+      "components": {
+        "d90d29cd-e85e-40f2-be5a-17673f8412c6": {
+          "id": "d90d29cd-e85e-40f2-be5a-17673f8412c6",
+          "name": "Card_DSkH",
+          "definitionId": "695d37942215f7f9ba75d661",
+          "slots": {
+            "root": []
+          },
+          "options": {
+            "showHeader": true,
+            "title": {
+              "type": "Translation",
+              "translationTable": "f1d96282-c746-43df-8fbd-4b443763ef57",
+              "key": "Card_DSkH_title"
+            },
+            "subheader": [
+              {
+                "kind": "chip",
+                "chip": {
+                  "type": "Translation",
+                  "translationTable": "f1d96282-c746-43df-8fbd-4b443763ef57",
+                  "key": "Card_DSkH_subheader_[0]"
+                }
+              },
+              {
+                "kind": "text",
+                "text": ""
+              }
+            ],
+            "outlined": false
+          },
+          "slotProps": {},
+          "classes": {
+            "root": []
+          }
+        }
+      },
+      "viewports": {
+        "414": [],
+        "768": [],
+        "1280": [],
+        "1440": []
+      }
+    },
+    "inputs": [],
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "created": "2026-03-19T16:32:27Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-23T10:16:19Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "revisionId": "f637e457-e54a-49cf-81a3-e1512d12fc41",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "69bc251bee0fc19515629341",
+    "name": "cardBlock"
+  }
+}

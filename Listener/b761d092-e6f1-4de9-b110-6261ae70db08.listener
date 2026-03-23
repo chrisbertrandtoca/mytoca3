@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "id": "b761d092-e6f1-4de9-b110-6261ae70db08",
+    "contentHash": "d9hPZkUwAp2JuLLmVMoi/7F6gskchgrW5ah/qcox5Tw=",
+    "platformVersion": "10.0.0",
+    "revisionId": "79748797-2c0f-480d-8eaa-94591349caad",
+    "updatedAt": "2026-03-19T12:09:58Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bbe7963c715d1685cba275",
+    "listenerId": "b761d092-e6f1-4de9-b110-6261ae70db08",
+    "version": "",
+    "public": true,
+    "description": "asdasd",
+    "apiKeys": [],
+    "inputs": [],
+    "workflowId": "84b30ff8-4b96-4241-803a-9dfd729928fb",
+    "created": "2026-03-19T12:09:58Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-19T12:09:58Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "revisionId": "79748797-2c0f-480d-8eaa-94591349caad",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "b761d092-e6f1-4de9-b110-6261ae70db08",
+    "name": "asdasd"
+  }
+}

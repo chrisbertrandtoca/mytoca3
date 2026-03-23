@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "2ed50884-4dee-4b55-8008-8d60bfca6143",
+    "contentHash": "mdY56RqHtMzY3lkh9vy8l59N5Tu1sDP/8f16FlmUCVI=",
+    "platformVersion": "10.0.0",
+    "revisionId": "2afba889-2170-4ec8-b2d4-c7bb0f75bf5a",
+    "updatedAt": "2026-03-19T12:08:59Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bbe75a3c715d1685cba26f",
+    "projectId": "2ed50884-4dee-4b55-8008-8d60bfca6143",
+    "description": "this is new",
+    "associatedUsers": [
+      "cb3e6503-0240-4df6-87d6-5afff481116d"
+    ],
+    "created": "2026-03-19T12:08:58Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-19T12:08:58Z",
+    "revisionId": "2afba889-2170-4ec8-b2d4-c7bb0f75bf5a",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "2ed50884-4dee-4b55-8008-8d60bfca6143",
+    "name": "new"
+  }
+}

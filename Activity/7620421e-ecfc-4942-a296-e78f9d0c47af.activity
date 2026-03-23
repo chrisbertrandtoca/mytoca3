@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "id": "7620421e-ecfc-4942-a296-e78f9d0c47af",
+    "contentHash": "6HsYUe\u002Bis3B2U/MHbIRPVwjUz1z2ty\u002BS4/JxKgPLdbE=",
+    "platformVersion": "10.0.0",
+    "revisionId": "589221bd-cded-48f7-97c7-65b58bb48c7e",
+    "updatedAt": "2026-03-19T12:09:21Z",
+    "updatedBy": "Toca.io",
+    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+  },
+  "content": {
+    "id": "69bbe7633c715d1685cba271",
+    "projectId": "2ed50884-4dee-4b55-8008-8d60bfca6143",
+    "description": "asd",
+    "associatedUserId": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "12ce0c3a-9862-4fb2-aa7c-986b896b3feb",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022grae\\n\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2026-03-19T12:09:07Z",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "updated": "2026-03-19T12:09:21Z",
+    "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
+    "activityServiceType": "Stateless",
+    "revisionId": "589221bd-cded-48f7-97c7-65b58bb48c7e",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "branch": "chris",
+    "resourceId": "7620421e-ecfc-4942-a296-e78f9d0c47af",
+    "name": "newx2"
+  }
+}
