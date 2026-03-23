@@ -1,12 +1,12 @@
 {
   "metadata": {
     "id": "dc5e0d34-fbf1-4eed-a0aa-9c3cbbe3aa61",
-    "contentHash": "0\u002Bi2IkVwGZtzw2025uXrGeScEkmky2Vpd7npQIHXiBo=",
+    "contentHash": "/kTVmV1q/hj1cKJesJoc9LrGbM4BR28lYWN4iInc3Ho=",
     "platformVersion": "10.0.0",
     "revisionId": "7d135714-3010-4bfa-affb-0ae53a0af2a0",
-    "updatedAt": "2026-03-19T12:08:32Z",
+    "updatedAt": "2026-03-23T14:06:06Z",
     "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+    "branch": "youdoyou"
   },
   "content": {
     "id": "69bbe51e112a07d3ef521a57",
@@ -197,7 +197,6 @@
     },
     "revisionId": "7d135714-3010-4bfa-affb-0ae53a0af2a0",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
-    "branch": "chris",
     "resourceId": "dc5e0d34-fbf1-4eed-a0aa-9c3cbbe3aa61",
     "name": "trw"
   }

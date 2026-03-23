@@ -1,12 +1,12 @@
 {
   "metadata": {
     "id": "7620421e-ecfc-4942-a296-e78f9d0c47af",
-    "contentHash": "6HsYUe\u002Bis3B2U/MHbIRPVwjUz1z2ty\u002BS4/JxKgPLdbE=",
+    "contentHash": "LYy1zHLQP4HntjP6D1DlThmg7a9AQirA\u002Bs9z7PfkRrI=",
     "platformVersion": "10.0.0",
     "revisionId": "589221bd-cded-48f7-97c7-65b58bb48c7e",
-    "updatedAt": "2026-03-19T12:09:21Z",
+    "updatedAt": "2026-03-23T14:06:02Z",
     "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+    "branch": "youdoyou"
   },
   "content": {
     "id": "69bbe7633c715d1685cba271",
@@ -55,7 +55,6 @@
     "activityServiceType": "Stateless",
     "revisionId": "589221bd-cded-48f7-97c7-65b58bb48c7e",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
-    "branch": "chris",
     "resourceId": "7620421e-ecfc-4942-a296-e78f9d0c47af",
     "name": "newx2"
   }
