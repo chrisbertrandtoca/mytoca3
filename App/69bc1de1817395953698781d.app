@@ -1,11 +1,12 @@
 {
   "metadata": {
     "id": "69bc1de1817395953698781d",
-    "contentHash": "kGllimwOFVoD6zjJ9JklV0LnXLLvTs7UTTYoyG/xqUg=",
+    "contentHash": "tB1lNw4FS\u002B/04dhoDA5dTqEMI/EWJfpiZwB0WqtEcE0=",
     "platformVersion": "10.0.0",
-    "revisionId": "03a4fc16-6c9e-41d3-9c32-76b0b79a6c35",
-    "updatedAt": "2026-03-23T11:47:20Z",
-    "updatedBy": "Toca.io"
+    "revisionId": "ae0a065e-2f7c-4f63-aa15-4f904a46821d",
+    "updatedAt": "2026-03-23T13:25:09Z",
+    "updatedBy": "Toca.io",
+    "branch": "chris"
   },
   "content": {
     "id": "69bc1de1817395953698781c",
@@ -19,15 +20,7 @@
         "pageId": "69bc1de1817395953698781e",
         "pageEntityId": "b15e9e99-c3d6-4d3a-800c-7db7db682463",
         "slug": "",
-        "name": "Home",
-        "parameters": []
-      },
-      {
-        "id": "f9034a4f-33fe-4c2e-a790-31614f5c3190",
-        "pageId": "69bc22eda72a85307d806efd",
-        "pageEntityId": "86811705-19e3-4926-8b45-86d3cca51096",
-        "slug": "new-page-with-block",
-        "name": "new page with block",
+        "name": "Home Page",
         "parameters": [
           {
             "key": "modalFullHeight",
@@ -54,7 +47,45 @@
           },
           {
             "key": "modalTitle",
-            "type": "boolean"
+            "type": "boolean",
+            "value": "true"
+          }
+        ]
+      },
+      {
+        "id": "f9034a4f-33fe-4c2e-a790-31614f5c3190",
+        "pageId": "69bc22eda72a85307d806efd",
+        "pageEntityId": "86811705-19e3-4926-8b45-86d3cca51096",
+        "slug": "new-page-with-block",
+        "name": "New page with block",
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean",
+            "value": "true"
           }
         ]
       }
@@ -69,7 +100,7 @@
     ],
     "created": "2026-03-19T16:01:37Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2026-03-23T10:16:20Z",
+    "updated": "2026-03-23T13:24:50Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "favicon": "",
     "theme": {
@@ -147,7 +178,7 @@
         }
       ]
     },
-    "revisionId": "03a4fc16-6c9e-41d3-9c32-76b0b79a6c35",
+    "revisionId": "ae0a065e-2f7c-4f63-aa15-4f904a46821d",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
     "resourceId": "69bc1de1817395953698781d",
     "name": "yay"

@@ -1,29 +1,28 @@
 {
   "metadata": {
     "id": "86811705-19e3-4926-8b45-86d3cca51096",
-    "contentHash": "XpmJqbBHpv8uWbrOnecR\u002Bh3azhQou0K/wMKAm4PL5Fo=",
+    "contentHash": "58U3WjPSwFj2q8qx8JSEQ3rorBoRSB\u002BsnO3O5zslJFo=",
     "platformVersion": "10.0.0",
-    "revisionId": "93442387-0ea4-4513-8f5f-9369ddf2a664",
-    "updatedAt": "2026-03-23T10:21:53Z",
+    "revisionId": "1f2b4677-09eb-4c32-a4bd-6c21b17037e8",
+    "updatedAt": "2026-03-23T13:24:59Z",
     "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+    "branch": "chris"
   },
   "content": {
     "id": "69bc22eda72a85307d806efd",
     "pageId": "86811705-19e3-4926-8b45-86d3cca51096",
     "dashBoardId": "69bc1de1817395953698781d",
-    "title": "new page with block",
+    "title": "New page with block",
     "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022e733b875-0838-41bd-967c-cfc5148b258d\u0022,\u0022components\u0022:{\u0022e733b875-0838-41bd-967c-cfc5148b258d\u0022:{\u0022id\u0022:\u0022e733b875-0838-41bd-967c-cfc5148b258d\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[\u002244a2251d-9e6b-4794-938c-52f37bd51bca\u0022]},\u0022classes\u0022:{\u0022root\u0022:[]}},\u002244a2251d-9e6b-4794-938c-52f37bd51bca\u0022:{\u0022id\u0022:\u002244a2251d-9e6b-4794-938c-52f37bd51bca\u0022,\u0022name\u0022:\u0022Flex Layout_uKdj\u0022,\u0022definitionId\u0022:\u002268ee4f579a09602dc3a17bf7\u0022,\u0022slots\u0022:{\u0022root\u0022:[\u0022faffb6e7-d644-4bcd-8434-251f833c290f\u0022,\u0022c0e63e4f-a7be-4c3b-8be3-4821f86cb636\u0022,\u0022d90d29cd-e85e-40f2-be5a-17673f8412c6\u0022]},\u0022options\u0022:{\u0022spaceBetween\u0022:0,\u0022align\u0022:\u0022stretch\u0022,\u0022justify\u0022:\u0022start\u0022,\u0022direction\u0022:1},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022c0e63e4f-a7be-4c3b-8be3-4821f86cb636\u0022:{\u0022id\u0022:\u0022c0e63e4f-a7be-4c3b-8be3-4821f86cb636\u0022,\u0022name\u0022:\u0022Divider_HfAh\u0022,\u0022definitionId\u0022:\u002269427e39ce04396be7d3ecfa\u0022,\u0022slots\u0022:{},\u0022options\u0022:{\u0022variant\u0022:\u0022fullWidth\u0022,\u0022light\u0022:false,\u0022orientation\u0022:\u0022horizontal\u0022,\u0022color\u0022:\u0022default\u0022},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022faffb6e7-d644-4bcd-8434-251f833c290f\u0022:{\u0022id\u0022:\u0022faffb6e7-d644-4bcd-8434-251f833c290f\u0022,\u0022name\u0022:\u0022Navbar_oXXs\u0022,\u0022definitionId\u0022:\u002268fa0565287addf4316aa97d\u0022,\u0022slots\u0022:{},\u0022options\u0022:{\u0022title\u0022:[{\u0022kind\u0022:\u0022text\u0022,\u0022text\u0022:\u0022\u0022}],\u0022color\u0022:\u0022primary\u0022,\u0022elevation\u0022:2,\u0022hideNav\u0022:false,\u0022roundedCorners\u0022:true,\u0022linkSpacing\u0022:2,\u0022showUser\u0022:false,\u0022customMenu\u0022:false,\u0022alwaysBurger\u0022:false},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}},\u0022d90d29cd-e85e-40f2-be5a-17673f8412c6\u0022:{\u0022id\u0022:\u0022d90d29cd-e85e-40f2-be5a-17673f8412c6\u0022,\u0022definitionId\u0022:\u0022block/69bc251bee0fc19515629340\u0022,\u0022slots\u0022:{},\u0022options\u0022:{},\u0022slotProps\u0022:{},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
     "parameters": [],
     "created": "2026-03-19T16:23:09Z",
     "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
-    "updated": "2026-03-23T10:21:52Z",
+    "updated": "2026-03-23T13:24:49Z",
     "updatedBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "version": "0.0.0",
-    "revisionId": "93442387-0ea4-4513-8f5f-9369ddf2a664",
+    "revisionId": "1f2b4677-09eb-4c32-a4bd-6c21b17037e8",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
-    "branch": "chris",
     "resourceId": "86811705-19e3-4926-8b45-86d3cca51096",
-    "name": "new page with block"
+    "name": "New page with block"
   }
 }
