@@ -1,12 +1,11 @@
 {
   "metadata": {
     "id": "69bc1de1817395953698781d",
-    "contentHash": "W8nFIA2BaDb37AGABRtlY3zeMuYwyQprXenRk7eXWGI=",
+    "contentHash": "kGllimwOFVoD6zjJ9JklV0LnXLLvTs7UTTYoyG/xqUg=",
     "platformVersion": "10.0.0",
     "revisionId": "03a4fc16-6c9e-41d3-9c32-76b0b79a6c35",
-    "updatedAt": "2026-03-23T10:17:06Z",
-    "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de213f-a937-408c-8e33-c2ac90060344/worktrees/chris"
+    "updatedAt": "2026-03-23T11:47:20Z",
+    "updatedBy": "Toca.io"
   },
   "content": {
     "id": "69bc1de1817395953698781c",
@@ -150,7 +149,6 @@
     },
     "revisionId": "03a4fc16-6c9e-41d3-9c32-76b0b79a6c35",
     "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
-    "branch": "chris",
     "resourceId": "69bc1de1817395953698781d",
     "name": "yay"
   }
