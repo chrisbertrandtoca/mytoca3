@@ -1,0 +1,27 @@
+{
+  "metadata": {
+    "id": "08de213f-a937-408c-8e33-c2ac90060344",
+    "contentHash": "oOnhrOOfAPTUlgUshSUvhmxDlo8lG8I4eArqyPqrXJw=",
+    "platformVersion": "10.0.0",
+    "revisionId": "0970f947-a9d1-42ed-bf7a-ac6a36f92af5",
+    "updatedAt": "2026-03-23T13:40:22Z",
+    "updatedBy": "Toca.io",
+    "branch": "chris"
+  },
+  "content": {
+    "id": "08de213f-a937-408c-8e33-c2ac90060344",
+    "accent": "#451462",
+    "route": "app-with-store",
+    "description": "Apps: App with Store Deployed to: app-store Projects: 0 Datastores: 1",
+    "cmsEnabled": true,
+    "createdBy": "77c9c523-1be3-419c-a992-cd36cb6d3900",
+    "created": "2025-11-11T16:30:43Z",
+    "updatedBy": "77c9c523-1be3-419c-a992-cd36cb6d3900",
+    "updated": "2025-12-15T11:55:25Z",
+    "repositoryUrl": "https://github.com/chrisbertrandtoca/mytoca3.git",
+    "revisionId": "0970f947-a9d1-42ed-bf7a-ac6a36f92af5",
+    "workspaceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "resourceId": "08de213f-a937-408c-8e33-c2ac90060344",
+    "name": "App with Store Workspace"
+  }
+}
